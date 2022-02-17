@@ -1,0 +1,16 @@
+C:\Users\emrec\Desktop\çalışmalar\todo-app\bin\Debug\net5.0\todo-app.exe
+C:\Users\emrec\Desktop\çalışmalar\todo-app\bin\Debug\net5.0\todo-app.deps.json
+C:\Users\emrec\Desktop\çalışmalar\todo-app\bin\Debug\net5.0\todo-app.runtimeconfig.json
+C:\Users\emrec\Desktop\çalışmalar\todo-app\bin\Debug\net5.0\todo-app.runtimeconfig.dev.json
+C:\Users\emrec\Desktop\çalışmalar\todo-app\bin\Debug\net5.0\todo-app.dll
+C:\Users\emrec\Desktop\çalışmalar\todo-app\bin\Debug\net5.0\ref\todo-app.dll
+C:\Users\emrec\Desktop\çalışmalar\todo-app\bin\Debug\net5.0\todo-app.pdb
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\todo-app.csproj.AssemblyReference.cache
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\todo-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\todo-app.AssemblyInfoInputs.cache
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\todo-app.AssemblyInfo.cs
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\todo-app.csproj.CoreCompileInputs.cache
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\todo-app.dll
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\ref\todo-app.dll
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\todo-app.pdb
+C:\Users\emrec\Desktop\çalışmalar\todo-app\obj\Debug\net5.0\todo-app.genruntimeconfig.cache
